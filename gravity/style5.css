@@ -1,0 +1,190 @@
+.body{
+	background: url(image/background.png);
+	min-height: 100%;
+	background-size: cover;	
+}
+
+.header{
+
+	height: 169px;
+	width: 1062px;
+	margin-left:  auto;
+	margin-right: auto;
+	display: flex;
+	
+}
+
+.logo{
+
+	height: 169px;
+	width: 270px;
+}
+
+.logo-img{
+	width: 270px;
+	height: 169px;
+}
+
+.info-conteiner{
+
+	height: 169px;
+	width: 792px;
+
+}
+
+.info{
+
+	height:  66px;
+	width: 792px;
+	display: flex;
+}
+
+.info2{
+
+	height: 84.5px;
+	width: 792px;
+	display: flex;
+}
+
+.text-info{
+	width: 443px;
+	height: 19px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 23px;
+
+	color: #FFFFFF;
+}
+
+.text-info2{
+	width: 296px;
+	height: 19px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 23px;
+
+	color: #FFFFFF;	
+}
+
+.text-info3{
+	width: 124px;
+	height: 19px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 25px;
+	line-height: 29px;
+	color: #FFFFFF;
+	margin-left: 168px;
+	text-decoration: none;
+}
+
+.text-info4{
+	width: 93px;
+	height: 19px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 25px;
+	line-height: 29px;
+
+	color: #FFFFFF;
+	margin-left: 32px;
+	text-decoration: none;
+}
+
+.text-info5{
+	position: absolute;
+	width: 102px;
+	height: 19px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 25px;
+	line-height: 29px;
+
+	color: #FFFFFF;
+	margin-left: 32px;
+	text-decoration: none;
+}
+
+.text-info6{
+	width: 164px;
+	height: 19px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 25px;
+	line-height: 29px;
+
+	color: #FFFFFF;
+	margin-left: 32px;
+	text-decoration: none;
+}
+
+.peregorodka{
+	width: 780px;
+	height: 8px;
+
+	background: rgba(0, 0, 0, 0.6);
+	border-radius: 5px;
+}
+
+.dipper-container{
+
+	width: 1500px;
+	height: 767px;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+}
+
+.dipper-img{
+	width: 426px;
+	height: 767px;
+
+
+	border-radius: 10px;
+	margin-left:  auto;
+}
+
+.dipper-text{
+	width:  1074px;
+	height: 767px;
+
+	margin-right: auto
+}
+
+.dipper{
+	width: 297px;
+	height: 540px;
+	margin-left: 60px;
+	margin-top:  0px;
+
+}
+
+.dipper-tt{
+	width: 1042px;
+	height: 308px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 30px;
+	line-height: 35px;
+
+	color: #FFFFFF;
+}
+
+
+
